@@ -141,3 +141,7 @@ Para exibir a forma de onda na janela do esquema, segure o a tecla "CTRL"  e cli
 6. Volta para o esquema anterior.
 
 Para voltar ao nível anterior, você pode pressionar "Ctrl + e".
+
+# Referência
+1. 2024 IEEE CASS
+2. https://learn.microsoft.com/pt-br/windows/wsl/install
